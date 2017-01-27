@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "6ea2adf6-07e3-4369-bb68-8550f54323ea",
+  "alias": "OfficeGraphWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "6ea2adf6-07e3-4369-bb68-8550f54323ea",
+    "group": { "default": "Under Development" },
+    "title": { "default": "OfficeGraph" },
+    "description": { "default": "OfficeGraph description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "OfficeGraph"
+    }
+  }]
+}

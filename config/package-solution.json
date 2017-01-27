@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "office-graph-client-side-solution",
+    "id": "859e671b-f203-476c-899a-de39a877c9bc",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/office-graph.sppkg"
+  }
+}

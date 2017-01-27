@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/officeGraph/OfficeGraphWebPart.js",
+      "manifest": "./src/webparts/officeGraph/OfficeGraphWebPart.manifest.json",
+      "outputPath": "./dist/office-graph.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "officeGraphStrings": "webparts/officeGraph/loc/{locale}.js"
+  }
+}
